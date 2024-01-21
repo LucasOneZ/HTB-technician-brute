@@ -23,7 +23,7 @@ git clone https://github.com/LucasOneZ/HTB-technician-brute.git
 
 cd HTB-technician-brute
 
-go init lucas
+go mod init lucas
 
 go build
 
